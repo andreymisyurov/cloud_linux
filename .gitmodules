@@ -1,0 +1,9 @@
+[submodule "hello_kernelcare"]
+	path = hello_kernelcare
+	url = git@github.com:andreymisyurov/hello_kernelcare.git
+[submodule "kernelcare_debug_module"]
+	path = kernelcare_debug_module
+	url = ./kernelcare_debug_module/
+[submodule "kernel_identity_manager"]
+	path = kernel_identity_manager
+	url = ./kernel_identity_manager/
